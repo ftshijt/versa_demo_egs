@@ -8,7 +8,6 @@
 # -- utmos: UT-MOS score
 # -- dnsmos: DNS-MOS score
 # -- plcmos: PLC-MOS score
-# -- aecmos: AEC-MOS score
 - name: pseudo_mos
   predictor_types: ["utmos", "dnsmos", "plcmos"]
   predictor_args:
